@@ -6,19 +6,15 @@ Created a model to showcase the MPG vs Weight with a correlation matrix to test 
 a linear regression involving two variables, the response variable is the variable being modeled or predicted, while the predictor variable is 
 the variable used to predict the response. The linear regression model uses mpg as the response variable and weight as the predictor variable.
 
-## Example
+## Explanation
 
-## Explanation of the Model
-![image](https://user-images.githubusercontent.com/75659218/195256433-8af6af0c-d00a-48db-9be8-cda0908ee4c6.png)
-##
-##
-## Data Preparation
-##
-![image](https://user-images.githubusercontent.com/75659218/195256508-1b68d0e0-949c-4c4d-b6f3-3c365cab0f1e.png)
+## Data 
+Import the data into a dataframe and randomly pick 30 observstions without replacement.
+![image](https://user-images.githubusercontent.com/75659218/195454978-1f575a11-9fd5-4827-9b66-d379474b5820.png)
 ##
 ##
 ## Plot the Yields
-##
-![image](https://user-images.githubusercontent.com/75659218/195256575-6902c04f-2567-483b-83a1-a109141c9ce1.png)
+
 ##
 ## Linear Regression results
+
