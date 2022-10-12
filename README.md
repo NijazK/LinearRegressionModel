@@ -4,6 +4,4 @@ A simple linear regression is a way to model the linear relationship between two
 ## Purpose
 Created a model to showcase the MPG vs Weight with a correlation matrix to test the response and precictor variables. For this example, 
 a linear regression involving two variables, the response variable is the variable being modeled or predicted, while the predictor variable is 
-the variable used to predict the response.
-
-## 
+the variable used to predict the response. The linear regression model uses mpg as the response variable and weight as the predictor variable.
