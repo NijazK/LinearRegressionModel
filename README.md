@@ -1,4 +1,4 @@
-# LinearRegressionModel
+# Linear Regressio nModel
 A simple linear regression is a way to model the linear relationship between two quantitative variables, using a line drawn through those variables' data points, known as a regression line.
 
 ## Purpose
