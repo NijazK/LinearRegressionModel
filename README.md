@@ -15,7 +15,7 @@ the variable used to predict the response. The linear regression model uses mpg 
 ##
 ##
 ## Plot the Yields
-*Create a plot to show the variables MPG against Weight.
+* Create a plot to show the variables MPG against Weight.
 #
 ![image](https://user-images.githubusercontent.com/75659218/195456306-efc6e792-3f48-4499-96a4-9bb4e5bfaa9f.png)
 ##
